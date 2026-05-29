@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5af78b56-6bc8-453a-a2a1-f1f5b2e84926" name="Changes" comment="Init Commit">
-      <change afterPath="$PROJECT_DIR$/functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todos.txt" afterDir="false" />
+    <list default="true" id="5af78b56-6bc8-453a-a2a1-f1f5b2e84926" name="Changes" comment="Implemented the Add Button">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/todos.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,11 +78,29 @@
       <option name="project" value="LOCAL" />
       <updated>1780056787260</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added Filing Related Functions">
+      <option name="closed" value="true" />
+      <created>1780066919121</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1780066919121</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Implemented the Add Button">
+      <option name="closed" value="true" />
+      <created>1780067030532</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1780067030532</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init Commit" />
+    <MESSAGE value="Added Filing Related Functions" />
+    <MESSAGE value="Implemented the Add Button" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented the Add Button" />
   </component>
 </project>

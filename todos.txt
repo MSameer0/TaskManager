@@ -2,7 +2,8 @@ Make soup
 Clean the code
 Buy the painting
 New Order
-We just made a default arg
+finish project!
 Get the car.
 Buy grocery
 Master Python!
+start game
